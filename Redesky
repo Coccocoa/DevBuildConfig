@@ -68,7 +68,7 @@ KillAura AAC false
 KillAura MaxTurnSpeed 180.0
 KillAura MinTurnSpeed 180.0
 KillAura SilentRotation true
-KillAura Strafe Off
+KillAura Strafe Strict
 KillAura RandomCenter false
 KillAura Outborder false
 KillAura FOV 180.0
@@ -130,4 +130,4 @@ Velocity Vertical 0.0
 Velocity Mode Simple
 Velocity toggle true
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &206.01.2021
+chat &3Latest &3Update &223.01.2021
