@@ -46,7 +46,7 @@ KillAura AutoBlock Off
 KillAura RayCast false
 KillAura RayCastIgnored false
 KillAura LivingRayCast false
-KillAura AAC false
+KillAura AAC true
 KillAura MaxTurnSpeed 60.0
 KillAura MinTurnSpeed 60.0
 KillAura SilentRotation true
@@ -76,8 +76,8 @@ Scaffold RotationStrafe false
 Scaffold RotationMode Static
 Scaffold SilentRotation true
 Scaffold KeepRotation true
-Scaffold StaticPitchOffset 81.99566
-Scaffold StaticYawOffset -89.3
+Scaffold StaticPitchOffset 82
+Scaffold StaticYawOffset 0
 Scaffold xzRange 0.1
 Scaffold yRange 0.1
 Scaffold SearchAccuracy 8
@@ -104,4 +104,4 @@ chat If you need, enable &4AntiBot &ebut it forces you to hit enemies for make &
 chat Don't go diagonally with &4Scaffold&e.
 chat &4AutoArmor&e, &4InventoryMove&e, &4InventoryCleaner&e, &4Speed&e have been patched. 
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &215.01.2021
+chat &3Latest &3Update &225.01.2021
