@@ -94,7 +94,7 @@ Scaffold MaxDelay 0
 Scaffold MinDelay 0
 Scaffold PlaceableDelay false
 Scaffold AutoBlock Spoof
-Scaffold Sprint false
+Scaffold Sprint true
 Scaffold Swing false
 Scaffold Search true
 Scaffold Down false
@@ -104,20 +104,19 @@ Scaffold RotationStrafe true
 Scaffold RotationMode Static
 Scaffold SilentRotation true
 Scaffold KeepRotation true
-Scaffold KeepRotationLength 20
-Scaffold StaticPitchOffset 81.99566
-Scaffold StaticYawOffset -89.3
+Scaffold StaticPitchOffset 82.0
+Scaffold StaticYawOffset 0.0
 Scaffold xzRange 0.1
 Scaffold yRange 0.1
 Scaffold SearchAccuracy 8
 Scaffold MaxTurnSpeed 180.0
 Scaffold MinTurnSpeed 180.0
 Scaffold Zitter false
-Scaffold Timer 0.80
+Scaffold Timer 1.0
 Scaffold SpeedModifier 1.0
 Scaffold Slow false
 Scaffold SameY false
-Scaffold SafeWalk true
+Scaffold SafeWalk false
 Scaffold AirSafe true
 Sprint AllDirections false
 Sprint Blindness true
@@ -130,4 +129,4 @@ Velocity Vertical 0.0
 Velocity Mode Simple
 Velocity toggle true
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &223.01.2021
+chat &3Latest &3Update &225.01.2021
