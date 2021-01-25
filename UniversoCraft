@@ -84,8 +84,8 @@ Scaffold RotationMode Static
 Scaffold SilentRotation true
 Scaffold KeepRotation true
 Scaffold KeepRotationLength 20
-Scaffold StaticPitchOffset 81.99566
-Scaffold StaticYawOffset -89.3
+Scaffold StaticPitchOffset 82
+Scaffold StaticYawOffset 0
 Scaffold xzRange 0.1
 Scaffold yRange 0.1
 Scaffold SearchAccuracy 8
@@ -109,4 +109,4 @@ Velocity Vertical 0.0
 Velocity Mode Simple
 Velocity toggle true
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &206.01.2021
+chat &3Latest &3Update &225.01.2021
