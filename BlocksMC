@@ -28,7 +28,9 @@ InventoryCleaner RandomSlot false
 InventoryCleaner Sort true
 InventoryCleaner ItemDelay 10
 InventoryCleaner toggle false
-InventoryMove Undetectable true
+InventoryMove Undetectable false
+InventoryMove AACAdditionPro true
+InventoryMove NoMoveClicks false
 InventoryMove toggle true
 KillAura MaxCPS 15
 KillAura MinCPS 10
