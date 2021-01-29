@@ -28,7 +28,7 @@ InventoryCleaner RandomSlot false
 InventoryCleaner Sort true
 InventoryCleaner ItemDelay 10
 InventoryCleaner toggle false
-InventoryMove NoDetectable true
+InventoryMove Undetectable true
 InventoryMove toggle true
 KillAura MaxCPS 15
 KillAura MinCPS 10
@@ -120,6 +120,6 @@ targetAnimals false
 targetInvisible true
 targetDead true
 chat Type ".scaffold timer 0.85" if you want to go diagonally with &4Scaffold&e.
-chat &9ANTICHEAT DOES NOT AUTOBAN.
+chat &4ANTICHEAT DOES NOT AUTOBAN&e.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &227.01.2021
+chat &3Latest &3Update &229.01.2021
