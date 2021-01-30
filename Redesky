@@ -1,31 +1,31 @@
-AutoArmor MinDelay 72
-AutoArmor MaxDelay 72
+AutoArmor MinDelay 0
+AutoArmor MaxDelay 0
 AutoArmor InvOpen false
 AutoArmor SimulateInventory true
 AutoArmor NoMove true
-AutoArmor ItemDelay 5
+AutoArmor ItemDelay 0
 AutoArmor Hotbar true
 AutoArmor toggle true
-ChestStealer MaxDelay 25
-ChestStealer MinDelay 25
+ChestStealer MaxDelay 0
+ChestStealer MinDelay 0
 ChestStealer DelayOnFirst true
 ChestStealer TakeRandomized true
 ChestStealer OnlyItems false
 ChestStealer NoCompass true
 ChestStealer AutoClose true
-ChestStealer AutoCloseMaxDelay 150
-ChestStealer AutoCloseMinDelay 50
+ChestStealer AutoCloseMaxDelay 1
+ChestStealer AutoCloseMinDelay 1
 ChestStealer CloseOnFull true
 ChestStealer ChestTitle false
 ChestStealer toggle false
-InventoryCleaner MaxDelay 45
-InventoryCleaner MinDelay 45
+InventoryCleaner MaxDelay 0
+InventoryCleaner MinDelay 0
 InventoryCleaner InvOpen true
 InventoryCleaner IgnoreVehicles false
 InventoryCleaner Hotbar true
 InventoryCleaner RandomSlot false
 InventoryCleaner Sort true
-InventoryCleaner ItemDelay 25
+InventoryCleaner ItemDelay 6
 InventoryCleaner toggle false
 InventoryMove NoDetectable false
 InventoryMove AACAdditionPro true
@@ -33,8 +33,6 @@ InventoryMove NoMoveClicks false
 InventoryMove toggle true
 LongJump mode Redesky
 LongJump AutoJump true
-BaguetteFly Mode Redesky
-BaguetteFly RedeskyY 1.5
 FastUse Mode Instant
 FastUse NoMove false
 FastUse toggle true
@@ -73,8 +71,8 @@ KillAura RandomCenter false
 KillAura Outborder false
 KillAura FOV 180.0
 KillAura Predict true
-KillAura MaxPredictSize 0.5
-KillAura MinPredictSize 0.5
+KillAura MaxPredictSize 1.0
+KillAura MinPredictSize 1.0
 KillAura FailRate 1.0
 KillAura FakeSwing false
 KillAura NoInvAttack false
@@ -129,4 +127,4 @@ Velocity Vertical 0.0
 Velocity Mode Simple
 Velocity toggle true
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &225.01.2021
+chat &3Latest &3Update &230.01.2021
