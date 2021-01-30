@@ -77,6 +77,8 @@ KillAura FailRate 1.0
 KillAura FakeSwing false
 KillAura NoInvAttack false
 KillAura toggle false
+NoFall Mode SpoofGround
+NoFall toggle true
 NoSlow BlockForwardMultiplier 1.0
 NoSlow BlockStrafeMultiplier 1.0
 NoSlow ConsumeForwardMultiplier 1.0
