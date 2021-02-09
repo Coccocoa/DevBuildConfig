@@ -1,13 +1,13 @@
-AutoArmor MinDelay 0
-AutoArmor MaxDelay 0
+AutoArmor MinDelay 75
+AutoArmor MaxDelay 115
 AutoArmor InvOpen false
 AutoArmor SimulateInventory true
 AutoArmor NoMove true
 AutoArmor ItemDelay 0
 AutoArmor Hotbar true
 AutoArmor toggle true
-ChestStealer MaxDelay 0
-ChestStealer MinDelay 0
+ChestStealer MaxDelay 15
+ChestStealer MinDelay 15
 ChestStealer DelayOnFirst true
 ChestStealer TakeRandomized true
 ChestStealer OnlyItems false
@@ -18,9 +18,11 @@ ChestStealer AutoCloseMinDelay 1
 ChestStealer CloseOnFull true
 ChestStealer ChestTitle false
 ChestStealer toggle false
-InventoryCleaner MaxDelay 0
-InventoryCleaner MinDelay 0
-InventoryCleaner InvOpen true
+InventoryCleaner MaxDelay 60
+InventoryCleaner MinDelay 60
+InventoryCleaner InvOpen false
+InventoryCleaner SimulateInventory true
+InventoryCleaner NoMove false
 InventoryCleaner IgnoreVehicles false
 InventoryCleaner Hotbar true
 InventoryCleaner RandomSlot false
@@ -129,4 +131,4 @@ Velocity Vertical 0.0
 Velocity Mode Simple
 Velocity toggle true
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &230.01.2021
+chat &3Latest &3Update &209.02.2021
