@@ -62,29 +62,34 @@ KillAura FakeSwing false
 KillAura NoInvAttack true
 KillAura NoInvDelay 75
 Scaffold Mode Normal
-Scaffold MaxDelay 0
-Scaffold MinDelay 0
+Scaffold MaxDelay 32
+Scaffold MinDelay 32
 Scaffold PlaceableDelay false
 Scaffold AutoBlock Spoof
 Scaffold Sprint false
-Scaffold Swing true
+Scaffold Swing false
 Scaffold Search true
 Scaffold Down false
 Scaffold PlaceTiming Pre
-Scaffold Eagle Off
-Scaffold RotationStrafe false
+Scaffold Eagle Silent
+Scaffold BlocksToEagle 0
+Scaffold EagleEdgeDistance 0.34
+Scaffold ExpandLength 1
+Scaffold RotationStrafe true
 Scaffold RotationMode Static
 Scaffold SilentRotation true
 Scaffold KeepRotation true
-Scaffold StaticPitchOffset 82
-Scaffold StaticYawOffset 0
+Scaffold StaticPitchOffSet 83.0
+Scaffold StaticYawOffSet 0.0
 Scaffold xzRange 0.1
 Scaffold yRange 0.1
-Scaffold SearchAccuracy 8
-Scaffold MaxTurnSpeed 20.0
-Scaffold MinTurnSpeed 20.0
+Scaffold MinDiff 0.2
+Scaffold SearchAccuracy 1
+Scaffold MaxTurnSpeed 26.0
+Scaffold MinTurnSpeed 22.0
 Scaffold Zitter false
 Scaffold Timer 1.0
+Scaffold SpeedModifier 1.0
 Scaffold Slow true
 Scaffold SlowSpeed 0.55
 Scaffold SameY false
@@ -102,6 +107,6 @@ Velocity Mode AAC
 Velocity toggle true
 chat If you need, enable &4AntiBot &ebut it forces you to hit enemies for make &4KillAura &ehitting.
 chat Don't go diagonally with &4Scaffold&e.
-chat &4AutoArmor&e, &4InventoryMove&e, &4InventoryCleaner&e, &4Speed&e have been patched. 
+chat &4InventoryMove&e and &4Speed&e have been patched. 
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &225.01.2021
+chat &3Latest &3Update &212.02.2021
