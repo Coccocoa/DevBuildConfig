@@ -24,7 +24,7 @@ KillAura Strafe Off
 KillAura RandomCenter false
 KillAura Outborder false
 KillAura FOV 180.0
-KillAura Predict false
+KillAura Predict true
 KillAura MaxPredictSize 1.0
 KillAura MinPredictSize 0.5
 KillAura FailRate 1.0
