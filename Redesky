@@ -81,7 +81,7 @@ KillAura NoInvAttack false
 KillAura NoInvDelay 0
 KillAura toggle false
 NoFall Mode NoGround
-NoFall toggle true
+NoFall toggle false
 NoSlow BlockForwardMultiplier 1.0
 NoSlow BlockStrafeMultiplier 1.0
 NoSlow ConsumeForwardMultiplier 1.0
@@ -142,4 +142,4 @@ Velocity Vertical 0.0
 Velocity Mode Simple
 Velocity toggle true
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &201.04.2021
+chat &3Latest &3Update &208.05.2021
