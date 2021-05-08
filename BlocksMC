@@ -2,10 +2,10 @@ InventoryMove Undetectable true
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
 InventoryMove toggle true
-KillAura MaxCPS 16
-KillAura MinCPS 8
+KillAura MaxCPS 14
+KillAura MinCPS 7
 KillAura HurtTime 10
-KillAura Range 5.75
+KillAura Range 4.0
 KillAura ThroughWallsRange 2.0
 KillAura RangeSprintReducement 0.0
 KillAura Priority LivingTime
@@ -73,4 +73,4 @@ targetInvisible true
 targetDead true
 chat &4ANTICHEAT DOES NOT AUTOBAN&e.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &228.03.2021
+chat &3Latest &3Update &208.05.2021
