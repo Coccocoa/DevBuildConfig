@@ -58,7 +58,7 @@ Scaffold Timer 1.0
 Scaffold SpeedModifier 1.0
 Scaffold Slow false
 Scaffold SameY false
-Scaffold SafeWalk false
+Scaffold SafeWalk true
 Scaffold AirSafe false
 Sprint AllDirections false
 Sprint Blindness true
@@ -73,4 +73,4 @@ targetInvisible true
 targetDead true
 chat &4ANTICHEAT DOES NOT AUTOBAN&e.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &208.05.2021
+chat &3Latest &3Update &221.05.2021
