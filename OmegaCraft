@@ -102,7 +102,7 @@ Scaffold Slow false
 Scaffold SameY false
 Scaffold SafeWalk true
 Scaffold AirSafe false
-Sprint AllDirections true
+Sprint AllDirections false
 Sprint Blindness true
 Sprint Food true
 Sprint CheckServerSide true
@@ -119,4 +119,4 @@ Velocity Mode Simple
 Velocity toggle true
 chat &4InventoryCleaner &emay autoban while fighting.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &213.02.2021
+chat &3Latest &3Update &297.06.2021
