@@ -98,6 +98,7 @@ Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode AACZero
 Velocity toggle true
+chat &eEnable &4Fly &eonly while on ground. 
 chat &eBind &4Fly&e, &4Blink &eand &4Timer &ewith the same key.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &230.05.2021
+chat &3Latest &3Update &209.06.2021
