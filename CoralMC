@@ -18,7 +18,7 @@ KillAura Range 3.3
 KillAura ThroughWallsRange 2.0
 KillAura RangeSprintReducement 0.0
 KillAura Priority Direction
-KillAura TargetMode Single
+KillAura TargetMode Switch
 KillAura Swing true
 KillAura KeepSprint false
 KillAura AutoBlock Off
@@ -96,7 +96,7 @@ Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode AACZero
 Velocity toggle true
-chat &eEnable &4Fly &eonly while on ground. 
+chat &4Fly &eshould be patched. 
 chat &eBind &4Fly&e, &4Blink &ewith the same key.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &209.06.2021
+chat &3Latest &3Update &210.06.2021
