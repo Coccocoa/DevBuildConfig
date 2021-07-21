@@ -77,7 +77,7 @@ Scaffold MaxDelay 0
 Scaffold MinDelay 0
 Scaffold PlaceableDelay false
 Scaffold AutoBlock Spoof
-Scaffold Sprint true
+Scaffold Sprint false
 Scaffold Swing false
 Scaffold Search true
 Scaffold Down false
